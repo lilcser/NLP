@@ -1,0 +1,149 @@
+{
+    'sentences':[
+        {
+            'index':0,
+            'tokens':[
+                {
+                    'index':1,
+                    'word':'M',
+                    'originalText':'M',
+                    'characterOffsetBegin':0,
+                    'characterOffsetEnd':1,
+                    'before':'',
+                    'after':' '
+                },
+                {
+                    'index':2,
+                    'word':'and',
+                    'originalText':'and',
+                    'characterOffsetBegin':2,
+                    'characterOffsetEnd':5,
+                    'before':' ',
+                    'after':' '
+                },
+                {
+                    'index':3,
+                    'word':'N',
+                    'originalText':'N',
+                    'characterOffsetBegin':6,
+                    'characterOffsetEnd':7,
+                    'before':' ',
+                    'after':' '
+                },
+                {
+                    'index':4,
+                    'word':'walked',
+                    'originalText':'walked',
+                    'characterOffsetBegin':8,
+                    'characterOffsetEnd':14,
+                    'before':' ',
+                    'after':' '
+                },
+                {
+                    'index':5,
+                    'word':'towards',
+                    'originalText':'towards',
+                    'characterOffsetBegin':15,
+                    'characterOffsetEnd':22,
+                    'before':' ',
+                    'after':' '
+                },
+                {
+                    'index':6,
+                    'word':'the',
+                    'originalText':'the',
+                    'characterOffsetBegin':23,
+                    'characterOffsetEnd':26,
+                    'before':' ',
+                    'after':' '
+                },
+                {
+                    'index':7,
+                    'word':'city',
+                    'originalText':'city',
+                    'characterOffsetBegin':27,
+                    'characterOffsetEnd':31,
+                    'before':' ',
+                    'after':''
+                },
+                {
+                    'index':8,
+                    'word':'.',
+                    'originalText':'.',
+                    'characterOffsetBegin':31,
+                    'characterOffsetEnd':32,
+                    'before':'',
+                    'after':' '
+                }
+            ]
+        },
+        {
+            'index':1,
+            'tokens':[
+                {
+                    'index':1,
+                    'word':'They',
+                    'originalText':'They',
+                    'characterOffsetBegin':33,
+                    'characterOffsetEnd':37,
+                    'before':' ',
+                    'after':' '
+                },
+                {
+                    'index':2,
+                    'word':'did',
+                    'originalText':'did',
+                    'characterOffsetBegin':38,
+                    'characterOffsetEnd':41,
+                    'before':' ',
+                    'after':' '
+                },
+                {
+                    'index':3,
+                    'word':'not',
+                    'originalText':'not',
+                    'characterOffsetBegin':42,
+                    'characterOffsetEnd':45,
+                    'before':' ',
+                    'after':' '
+                },
+                {
+                    'index':4,
+                    'word':'want',
+                    'originalText':'want',
+                    'characterOffsetBegin':46,
+                    'characterOffsetEnd':50,
+                    'before':' ',
+                    'after':' '
+                },
+                {
+                    'index':5,
+                    'word':'to',
+                    'originalText':'to',
+                    'characterOffsetBegin':51,
+                    'characterOffsetEnd':53,
+                    'before':' ',
+                    'after':' '
+                },
+                {
+                    'index':6,
+                    'word':'walk',
+                    'originalText':'walk',
+                    'characterOffsetBegin':54,
+                    'characterOffsetEnd':58,
+                    'before':' ',
+                    'after':' '
+                },
+                {
+                    'index':7,
+                    'word':'back',
+                    'originalText':'back',
+                    'characterOffsetBegin':59,
+                    'characterOffsetEnd':63,
+                    'before':' ',
+                    'after':''
+                }
+            ]
+        }
+    ]
+}
